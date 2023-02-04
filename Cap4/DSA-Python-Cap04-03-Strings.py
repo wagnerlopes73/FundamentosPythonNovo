@@ -74,9 +74,17 @@ print(s12)
 s13 = s.split()
 print(s13)
 
-# Dividir a atring por um elemento específico, ou seja, retira esse valor da string
+# Dividir a atring por um elemento específico
 s14 = s.split("a")
 print(s14)
+
+# Contagem da letra indicada
+s15 = s.count("e")
+print(s15)
+
+# Informa se string termina com algum valor
+s16 = s.endswith("y")
+print(s16)
 
 
 
