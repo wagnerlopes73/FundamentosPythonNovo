@@ -67,3 +67,16 @@ print(s11)
 # Primeira letra maiúscula de cada palavra
 s12 = s.title()
 print(s12)
+
+
+# Orientado a objetos com métodos e atributos
+# Dividir a string pelos espaços em branco, criando uma lista
+s13 = s.split()
+print(s13)
+
+# Dividir a atring por um elemento específico, ou seja, retira esse valor da string
+s14 = s.split("a")
+print(s14)
+
+
+
